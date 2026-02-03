@@ -23,10 +23,10 @@ The following Excel skills were utilized for analysis:
 
 The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
 
-- **👨‍💼 Job titles**
-- **💰 Salaries**
-- **📍 Locations**
-- **🛠️ Skills**
+- **Job titles**
+- **Salaries**
+- **Locations**
+- **Skills**
 
 ## Dashboard Build
 
